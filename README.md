@@ -18,4 +18,4 @@ Proper description about the data and problem given in the notebook . You can do
 
 One can always try implementing further more algorithms (like Logistic regression or SVM ) with more data points using similar approach to achieve better results.
 
-# PeaceOut ;)
+# ;)
